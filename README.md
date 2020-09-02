@@ -11,5 +11,6 @@ ___
 
 Comments:
 
+* to start the project please use command `node project.js`;
 * to extract all the text from html-files we can use the same method as for spans but it will take more time to write a code that will filter excess elements. Present code is dedicated just for demonstraition that it works;
 * it is not feasible to extract image-urls from page styles configs with this approach because images are used as backgrounds, not as img's.
